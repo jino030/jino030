@@ -3,7 +3,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjino030%2Fhit-counter&count_bg=%235EB6B4&title_bg=%232C5168&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jino030)
 
-  <div style="width:200px; height: 150px; background:url(https://github.com/jino030/jino030/blob/main/img/img1.gif) no-repeat center center; background-size: cover;"></div>
+  <div style="width:200px; height: 150px; background-image:url(https://github.com/jino030/jino030/blob/main/img/img1.gif); background-size: cover;"></div>
   <img src="https://github.com/jino030/jino030/blob/main/img/img1.gif" />
   
   
