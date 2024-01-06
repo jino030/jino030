@@ -1,7 +1,8 @@
 ### ✨Skills✨
 
 <p>FRONT</p>
-<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7D358?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7D358?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 <p>BACK</p>
 
