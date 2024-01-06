@@ -1,3 +1,4 @@
+---
 ### ✨Skills✨
 
 #### FRONT
@@ -17,7 +18,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 
-
+---
 ### ✨Once I've used✨
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
