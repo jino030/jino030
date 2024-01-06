@@ -37,12 +37,12 @@
 
 ---
 
-<a href="s">
+<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jino030&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" height="180px" />
-</a>
-<a href="s">
+</span>
+<span>
   <img src="https://github-readme-stats.vercel.app/api?username=jino030&theme=tokyonight&show_icons=true" height="180px" />
-</a>
+</span>
 
 
 
