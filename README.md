@@ -1,5 +1,5 @@
 ### ✨Once I've used✨
-https://img.shields.io/badge/html-blue?logo=#E34F26&logoColor=white
+<img src="https://img.shields.io/badge/html-red?style=flat-square&logo=#E34F26&logoColor=white"/>
 
 
 
