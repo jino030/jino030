@@ -6,8 +6,7 @@
   <img src="https://github.com/jino030/jino030/blob/main/img/img1.gif" style="height: 180px;"/>
   
   
-  ---
-  ### ✨Skills✨
+  ## ✨Skills✨
   
   #### FRONT
   <div style="display:flex;">
@@ -26,9 +25,7 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </div>
   
-  ---
-  
-  ### ✨Once I've used✨
+  ## ✨Once I've used✨
   <div style="display:flex;">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
